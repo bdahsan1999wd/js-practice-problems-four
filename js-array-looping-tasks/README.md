@@ -53,6 +53,6 @@ Given an array of student objects, print each student’s name and marks.
 **Expected Output:**
 
 ```
-John scored 85
-Alice scored 90
+Name: John Scored: 85
+Name: Alice Scored: 90
 ```
